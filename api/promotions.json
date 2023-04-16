@@ -1,0 +1,22 @@
+{
+  "data": 
+  {
+    "url": "https://google.com",
+    "title": "Some ads title",
+    "text": "Some ads sdkfjlsf ksdj flsdj lfk jsdlkfj sdlk fjlsdk fjls jdlfkj sldkfj sdlkfjsldk fjlskd jflksd jflksdf j!!!!",
+    "label": 
+    {
+      "text": "Label text",
+      "url": "https://example.com"
+    },
+    "image": 
+    {
+      "url": "https://www.pngall.com/wp-content/uploads/13/Sale-Badge-Promotion-PNG-Cutout.png",
+      "size": 512
+    },
+    "footer": 
+    {
+      "text": "Footter text"
+    }
+  }
+}
